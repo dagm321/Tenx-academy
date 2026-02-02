@@ -1,0 +1,11 @@
+{
+    "servers" : [
+        {
+            "name" : "tenx-mcp",
+            "command" : "node",
+            "args" : [],
+            "env" : {}
+
+        }
+    ]
+}
